@@ -21,6 +21,7 @@ These the the follwing projects you can find in this repository.
 |   LED on/off  | `basic` | Basic LED circuit that is controlled with aurdino |
 |   Binary Numbers  | `basic` | Showing binary number through leds|
 |   Analog Write func | `basic` | Getting analog voltage values from a absic circuit |
+|   Potentiometer W Leds | `basic` | Getting leds to high when reaching certian voltage |
 
 
 
